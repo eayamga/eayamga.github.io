@@ -68,9 +68,7 @@ education:
     date_start: 2021-01-15
     date_end: 2022-11-30
     summary: |
-     
-
-      Specialized in machine learning and robotics.
+    
   - area: BA Economics
     institution: Kwame Nkrumah University of Science and Technology
     date_start: 2015-08-05
@@ -85,7 +83,7 @@ work:
     company_logo: ''
     date_start: 2025-09-01
     date_end: ''
-    summary: |2-
+    summary: |
       
   - position: Research Assistant
     company_name: Texas Tech University
@@ -101,7 +99,7 @@ work:
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2024-08-30
-    summary: |2-
+    summary: |
 
  - position: Teaching Assistant
     company_name: Kwame Nkrumah University of Science and Technology
@@ -109,7 +107,7 @@ work:
     company_logo: ''
     date_start: 2019-09-01
     date_end: 2020-12-30
-    summary: |2-
+    summary: |
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
