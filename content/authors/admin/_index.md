@@ -175,5 +175,9 @@ awards:
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
+Eric Ayamga is a PhD student in Economics at Texas Tech University.
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Welcome! I am [Your Name], a researcher in economics with interests spanning [health economics / international economics / inequality / applied microeconomics — adjust as needed]. My work explores how policies, markets, and global shocks shape individual and societal outcomes, with a particular focus on [insert your main research theme, e.g., “the persistence of inflation under asymmetric shocks” or “the effects of labeling policies on consumer behavior”].
+
+I combine rigorous econometric methods with real-world data to answer questions that matter for policy, industry, and academic debate. Beyond research, I am passionate about teaching and mentoring, as well as engaging with broader conversations on how economics can address today’s pressing challenges.
+
