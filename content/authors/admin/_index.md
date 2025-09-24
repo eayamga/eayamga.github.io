@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Eric Ayamga
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Eric
+last_name: Ayamga
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,81 +23,93 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student and Teaching Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Texas Tech University
+    url: www.ttu.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'ericayamga290@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/EricAyamga10802
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/eayamga
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/eric-atanga-ayamga-443aa7145
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=Exur2QEAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/my-orcid?orcid=0000-0002-9803-3809
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Applied Microeconomics
+  - Econometrics
+  - International Economics and Finance
+  - Health, Environmental and Energy Economics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Economics
+    institution: Texas Tech University
+    date_start: 2022-08-01
+    date_end: 2027-07-30 (Expected)
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Essays on Nutritional Labeling Policies in the United States
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: MPhil Economics
+    institution: Kwame Nkrumah University of Science and Technology
+    date_start: 2021-01-15
+    date_end: 2022-11-30
     summary: |
-      GPA: 4.0/4.0
+     
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BA Economics
+    institution: Kwame Nkrumah University of Science and Technology
+    date_start: 2015-08-05
+    date_end: 2019-07-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+     
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Teaching Assistant
+    company_name: Texas Tech University
+    company_url: 'https://www.ttu.edu/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-09-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      
+  - position: Research Assistant
+    company_name: Texas Tech University
+    company_url: 'https://www.ttu.edu/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-09-01
+    date_end: 2025-08-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
+ - position: Teaching Assistant
+    company_name: Texas Tech University
+    company_url: 'https://www.ttu.edu/'
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2024-08-30
+    summary: |2-
+
+ - position: Teaching Assistant
+    company_name: Kwame Nkrumah University of Science and Technology
+    company_url: 'https://www.knust.edu.gh/'
+    company_logo: ''
+    date_start: 2019-09-01
+    date_end: 2020-12-30
+    summary: |2-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
