@@ -68,7 +68,7 @@ education:
     date_start: 2021-01-15
     date_end: 2022-11-31
     summary: |
-      GPA: 
+      GPA: 4.0/0.0
 
       Specialized in machine learning and robotics.
   - area: BA Economics
@@ -76,7 +76,7 @@ education:
     date_start: 2015-08-15
     date_end: 2019-07-31
     summary: |
-      GPA: 
+      GPA: 4.0/4.0
 
       Minored in Mathematics. President of AI Club.
 
