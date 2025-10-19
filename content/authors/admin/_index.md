@@ -88,7 +88,7 @@ work:
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: Research Assistant
-    company_name: OpenAI
+    company_name: Texas Tech University
     company_url: 'https://ttu.edu/'
     company_logo: ''
     date_start: 2024-09-01
