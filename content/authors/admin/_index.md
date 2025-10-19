@@ -57,7 +57,7 @@ education:
   - area: PhD Economics
     institution: Texas Tech University
     date_start: 2022-09-01
-    date_end: 2027-06-30
+    date_end: 2027-07-01
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
@@ -65,15 +65,15 @@ education:
       url: 'https://example.com/thesis.pdf'
   - area: MPhil Economics
     institution: Kwame Nkrumah University of Science and Technology
-    date_start: 2021-01-15
-    date_end: 2022-11-31
+    date_start: 2021-01-10
+    date_end: 2022-11-12
     summary: |
       GPA: 4.0/4.0
 
   - area: BA Economics
     institution: Kwame Nkrumah University of Science and Technology
-    date_start: 2015-08-15
-    date_end: 2019-07-22
+    date_start: 2015-08-05
+    date_end: 2019-07-01
     summary: |
       GPA: 3.9/4.0
 
@@ -92,7 +92,7 @@ work:
     company_url: 'https://ttu.edu/'
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 2015-08-30
+    date_end: 2015-08-01
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
