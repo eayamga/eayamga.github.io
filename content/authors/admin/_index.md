@@ -73,9 +73,9 @@ education:
   - area: BA Economics
     institution: Kwame Nkrumah University of Science and Technology
     date_start: 2015-08-15
-    date_end: 2019-07-31
+    date_end: 2019-07-22
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.9/4.0
 
 
 work:
@@ -85,14 +85,14 @@ work:
     company_logo: ''
     date_start: 2025-09-01
     date_end: ''
-    summary: |
+    summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: Research Assistant
     company_name: OpenAI
     company_url: 'https://ttu.edu/'
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 2015-08-31
+    date_end: 2015-08-30
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
