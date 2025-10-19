@@ -63,38 +63,38 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: MPhil Economics
+    institution: Kwame Nkrumah University of Science and Technology
+    date_start: 2021-01-15
+    date_end: 2022-11-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BA Economics
+    institution: Kwame Nkrumah University of Science and Technology
+    date_start: 2015-08-15
+    date_end: 2019-07-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 
 
       Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Teaching Assistant
+    company_name: Texas Tech University
+    company_url: 'https://ttu.edu/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-09-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
+  - position: Research Assistant
     company_name: OpenAI
-    company_url: 'https://openai.com/'
+    company_url: 'https://ttu.edu/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-09-01
+    date_end: 2015-08-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
