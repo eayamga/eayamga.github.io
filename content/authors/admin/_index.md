@@ -10,7 +10,7 @@ first_name: Eric
 last_name: Ayamga
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
