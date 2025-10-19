@@ -34,30 +34,30 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:ericayamga290.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/EricAyamga10802
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/eayamga
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/eric-atanga-ayamga-443aa7145/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=W5ep9PUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-9803-3809
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Applied Economics
+  - Applied Econometrics/Bayesian Econometrics/Machine Learning
+  - Environmental/Energy/Health Economics
+  - International Economics and Finance
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Economics
+    institution: Texas Tech University
+    date_start: 2022-09-01
+    date_end: 2027-06-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
