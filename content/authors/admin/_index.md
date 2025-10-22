@@ -75,7 +75,7 @@ education:
     date_start: 2015-08-05
     date_end: 2019-07-01
     summary: |
-      GPA: 3.9/4.0
+      
 
 
 work:
@@ -86,15 +86,25 @@ work:
     date_start: 2025-09-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      Lead Recitation sessions (SI sessions) for Principles of Economics, Assign homeworks, midterms, and exams.
   - position: Research Assistant
     company_name: Texas Tech University
     company_url: 'https://ttu.edu/'
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 2015-08-01
+    date_end: 2025-08-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Provide research support to Dr. Xiaohan Ma, Dr. Latchezar Popov, and Dr. Frank Cierliero.
+  - position: Teaching Assistant
+    company_name: Texas Tech University
+    company_url: 'https://ttu.edu/'
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2024-08-09
+    summary: |
+      Provide tutoring services to undergraduates and graduate students in Macroeconomics I, Game theory, and Macroeconomics I
+  
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
