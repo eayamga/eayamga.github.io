@@ -68,7 +68,7 @@ education:
     date_start: 2021-01-10
     date_end: 2022-11-12
     summary: |
-      GPA: 4.0/4.0
+      
 
   - area: BA Economics
     institution: Kwame Nkrumah University of Science and Technology
