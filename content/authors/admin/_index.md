@@ -162,6 +162,18 @@ skills:
         description: ''
         percent: 85
         icon: cloud
+     - name: Matlab
+       description: ''
+       percent: 90
+       icon: matlab
+     - name: Stata
+       description: ''
+       precent: 100
+       icon: stata
+     - name: LaTex
+       description: ''
+       percent: 100
+       icon: latex
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
