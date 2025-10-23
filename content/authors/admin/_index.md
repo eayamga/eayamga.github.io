@@ -111,13 +111,13 @@ work:
     date_end: 2022-08-01
     summary: |
      Assist Prof. Sr. Euhenia Amporfu teach Macroeconomic theory I at the graduate level
- - position: Teaching Assistant
-   company_name: Kwame Nkrumah University of Science and Technology
-   company_url: 'https://knust.edu.gh/'
-   company_logo: ''
-   date_start: 2019-09-03
-   date_end: 2020-10-01
-   summary: |
+  - position: Teaching Assistant
+    company_name: Kwame Nkrumah University of Science and Technology
+    company_url: 'https://knust.edu.gh/'
+    company_logo: ''
+    date_start: 2019-09-03
+    date_end: 2020-10-01
+    summary: |
    
 
 
