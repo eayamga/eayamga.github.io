@@ -123,8 +123,8 @@ work:
     company_name: Access Bank Ghana LTD
     company_url: 'https://accessbank.org/'
     company_logo: ''
-    date_start: 2016-05-02
-    date_end: 2016-09-01
+    date_start: 2018-05-02
+    date_end: 2018-09-01
     summary: |
 
   - position: Intern
@@ -139,8 +139,8 @@ work:
     company_name: Access Bank Ghana LTD
     company_url: 'https://accessbank.org/'
     company_logo: ''
-    date_start: 2018-05-02
-    date_end: 2018-09-01
+    date_start: 2016-05-02
+    date_end: 2016-09-01
     summary: 
 
 
