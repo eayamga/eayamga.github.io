@@ -118,6 +118,13 @@ work:
     date_start: 2019-09-03
     date_end: 2020-10-01
     summary: |
+     Tutor undergraduate students in Advanced Econometrics and Environmental and Resource Economics
+  - position: Intern
+    company_name: Access Bank Ghana LTD
+    company_url: 'https://accessbank.org/'
+    company_logo: ''
+    date_start: 2016-05-02
+    date_end: 2016-09-01
    
 
 
