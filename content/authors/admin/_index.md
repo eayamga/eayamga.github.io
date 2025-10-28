@@ -202,8 +202,8 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
+  - title: Dr. Rashid Al-Hmoud Recruitment Fellowship
+    url: https://www.depts.ttu.edu/economics/department/scholarshipsphd.php
     date: '2022-12-01'
     awarder: NeurIPS
     icon: hero/trophy
