@@ -202,27 +202,41 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Dr. Rashid Al-Hmoud Recruitment Fellowship
+  - title: Dr. Rashid Al-Hmoud Fellowship
     url: https://www.depts.ttu.edu/economics/department/scholarshipsphd.php
-    date: '2022-12-01'
-    awarder: NeurIPS
+    date: '2025-08-01'
+    awarder: Department of Economics, Texas Tech University
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Awarded for best PhD Student for 2022/2023 cohort for the 2025/2026 acdemic year.
+  - title: Graduate Student Reseach Support Fund 
+    url: https://www.depts.ttu.edu/gradschool/financial-support/award_recipients/gsrs_ah.php
+    date: '2025-04-01'
+    awarder: Graduate School, Texas Tech University
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      $1,500 research support.
+  - title: Dr. Rashid Al-Hmoud Fellowship
+    url: https://www.depts.ttu.edu/economics/department/scholarshipsphd.php
+    date: '2024-08-01'
+    awarder: Department of Economics, Texas Tech University
+    icon: hero/trophy
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+       Awarded for best PhD Student for 2022/2023 cohort for the 2024/2025 acdemic year
+  - title: Dr. Rashid Al-Hmoud Fellowship
+    url: https://www.depts.ttu.edu/economics/department/scholarshipsphd.php
+    date: '2023-08-01'
+    awarder: Department of Economics, Texas Tech University
+    icon: hero/trophy
+    summary: |
+       Awarded for best PhD Student for 2022/2023 cohort for the 2023/2024 acdemic year
+  - title: Dr. Rashid Al-Hmoud Fellowship
+    url: https://www.depts.ttu.edu/economics/department/scholarshipsphd.php
+    date: '2022-08-01'
+    awarder: Department of Economics, Texas Tech University
+    icon: hero/trophy
+    summary: |
+       Awarded for best PhD Student for 2022/2023 cohort for the 2022/2023 acdemic year
 ---
 
 Eric Ayamga is a PhD Candidate in Economics at Texas Tech University.
