@@ -237,6 +237,13 @@ awards:
     icon: hero/trophy
     summary: |
        Awarded for best PhD Student for 2022/2023 cohort for the 2022/2023 acdemic year
+  - title:  Katholischer Akademischer Ausländer-Dienst Scholarship
+    url: https://www.kaad.de/
+    date: '2022-08-01'
+    awarder: KAAD, Germany
+    icon: hero/trophy
+    summary: |
+       Awarded 7,200 Euros in scholarships for my MPhil Economics program
 ---
 
 Eric Ayamga is a PhD Candidate in Economics at Texas Tech University.
