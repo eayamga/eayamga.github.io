@@ -39,6 +39,7 @@ sections:
 Eric’s broader research agenda examines policy-relevant frictions in both domestic and international markets — including the macroeconomic effects of sudden stops in firm-level borrowing on exporting activity and the socio-economic determinants of juvenile recidivism. His work combines rigorous empirical methods with structural modeling, leveraging large-scale consumer and firm-level data to generate credible, actionable evidence for policymakers.
 
 He is trained in advanced econometrics, machine learning, and computational techniques including Python, Stata, MATLAB, DSGE modeling, BLP estimation, and data visualization. His long-term goal is to inform policies that improve consumer welfare, reduce health disparities, and enhance resilience in critical food markets.
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
