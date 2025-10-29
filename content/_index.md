@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-   
+        Ph.D. student in Economics at Texas Tech University studying food policy, industrial organization, and consumer health. Uses large-scale data and structural analysis to evaluate labeling regulations, market power, and inflation pass-through in food markets.
         Please reach out to collaborate 😃
     design:
       columns: '1'
