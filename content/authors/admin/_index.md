@@ -194,8 +194,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: 
+    percent:
 
 # Awards.
 #   Add/remove as many awards below as you like.
