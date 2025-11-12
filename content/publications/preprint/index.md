@@ -1,11 +1,14 @@
 ---
 title: "The environmental impact of international trade in Sub-Saharan Africa: Exploring the role of policy and institutions for environmental sustainability"
 authors:
+- Desmond Mbe-Nyire Mpuure
+- Emmanuel Duodu
+- Adamu Braimah Abille
 - admin
 date: "2019-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,7 +19,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Considering the potential role of environmental institutions in abating environmental pollution, this study deviates from previous studies by assessing how policy and institutions for environmental sustainability (PIES) mitigate the adverse effects of aggregate and disaggregated trade on the environment in Sub-Saharan Africa (SSA). Using Driscoll and Kraay method, generalized method of moments, and Dumitrescu and Hurlin causality test on data from 2005 to 2020 for 24 SSA countries, the results show that the adverse effects of overall and disaggregated trade on environmental degradation significantly reduces in the presence of PIES. The causal analysis revealed a bidirectional relationship between total trade, exports, imports, and environmental degradation. The study concludes that international trade cannot guarantee environmental sustainability in light of the 2030 SDGs without effective PIES. Therefore, the study calls for the strengthening of PIES to ensure environmental sustainability even as SSA countries move to deepen intra and inter-continental trade within the context of the African Continental Free Trade Area Agreement (AFCFTA).
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
