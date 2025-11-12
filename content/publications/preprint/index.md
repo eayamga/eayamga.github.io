@@ -40,7 +40,7 @@ links:
 - type: code
   url: https://github.com/HugoBlox/hugo-blox-builder
 - type: slides
-  url: https://www.slideshare.net/
+  url: 
 - type: dataset
   url: "#"
 - type: poster
@@ -48,10 +48,10 @@ links:
 - type: source
   url: "#"
 - type: video
-  url: https://youtube.com
+  url: 
 - type: custom
   label: Custom Link
-  url: http://example.org
+  url: https://doi.org/10.1016/j.resglo.2024.100240
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
