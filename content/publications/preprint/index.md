@@ -22,7 +22,7 @@ publication_short: ""
 abstract: Considering the potential role of environmental institutions in abating environmental pollution, this study deviates from previous studies by assessing how policy and institutions for environmental sustainability (PIES) mitigate the adverse effects of aggregate and disaggregated trade on the environment in Sub-Saharan Africa (SSA). Using Driscoll and Kraay method, generalized method of moments, and Dumitrescu and Hurlin causality test on data from 2005 to 2020 for 24 SSA countries, the results show that the adverse effects of overall and disaggregated trade on environmental degradation significantly reduces in the presence of PIES. The causal analysis revealed a bidirectional relationship between total trade, exports, imports, and environmental degradation. The study concludes that international trade cannot guarantee environmental sustainability in light of the 2030 SDGs without effective PIES. Therefore, the study calls for the strengthening of PIES to ensure environmental sustainability even as SSA countries move to deepen intra and inter-continental trade within the context of the African Continental Free Trade Area Agreement (AFCFTA).
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Considering the potential role of environmental institutions in abating environmental pollution, this study deviates from previous studies by assessing how policy and institutions for environmental sustainability (PIES) mitigate the adverse effects of aggregate and disaggregated trade on the environment in Sub-Saharan Africa (SSA). Using Driscoll and Kraay method, generalized method of moments, and Dumitrescu and Hurlin causality test on data from 2005 to 2020 for 24 SSA countries, the results show that the adverse effects of overall and disaggregated trade on environmental degradation significantly reduces in the presence of PIES. The causal analysis revealed a bidirectional relationship between total trade, exports, imports, and environmental degradation. The study concludes that international trade cannot guarantee environmental sustainability in light of the 2030 SDGs without effective PIES. Therefore, the study calls for the strengthening of PIES to ensure environmental sustainability even as SSA countries move to deepen intra and inter-continental trade within the context of the African Continental Free Trade Area Agreement (AFCFTA).
 
 tags:
 - Large Language Models
@@ -34,7 +34,7 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
+- type: pdf
   provider: arxiv
   id: 1512.04133v1
 - type: code
