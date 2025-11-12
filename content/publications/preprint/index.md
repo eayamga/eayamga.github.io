@@ -35,8 +35,7 @@ hugoblox:
 
 links:
 - type: pdf
-  provider: arxiv
-  id: 1512.04133v1
+  url: https://doi.org/10.1016/j.resglo.2024.100240
 - type: code
   url: https://github.com/HugoBlox/hugo-blox-builder
 - type: slides
