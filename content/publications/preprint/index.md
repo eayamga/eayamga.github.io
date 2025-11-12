@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "The environmental impact of international trade in Sub-Saharan Africa: Exploring the role of policy and institutions for environmental sustainability"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
