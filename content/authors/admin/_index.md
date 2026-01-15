@@ -79,12 +79,20 @@ education:
 
 
 work:
+  - position: Graduate Part-Time Instructor
+    company_name: Texas Tech University
+    company_url: 'https://ttu.edu/'
+    company_logo: ''
+    date_start: 2026-01-12
+    date_end: ''
+    summary: |2-
+      Teach Principles of Microeconomics, assign homeworks, midterms, and exams.
   - position: Teaching Assistant
     company_name: Texas Tech University
     company_url: 'https://ttu.edu/'
     company_logo: ''
     date_start: 2025-09-01
-    date_end: ''
+    date_end: 2025-12-31
     summary: |2-
       Lead Recitation sessions (SI sessions) for Principles of Economics, Assign homeworks, midterms, and exams.
   - position: Research Assistant
@@ -110,7 +118,7 @@ work:
     date_start: 2022-01-12
     date_end: 2022-08-01
     summary: |
-     Assist Prof. Sr. Euhenia Amporfu teach Macroeconomic theory I at the graduate level
+     Assist Prof. Sr. Eugenia Amporfu teach Microeconomic theory I at the graduate level
   - position: Teaching Assistant
     company_name: Kwame Nkrumah University of Science and Technology
     company_url: 'https://knust.edu.gh/'
