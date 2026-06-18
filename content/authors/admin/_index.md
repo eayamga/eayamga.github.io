@@ -48,10 +48,10 @@ profiles:
     url: https://orcid.org/0000-0002-9803-3809
 
 interests:
-  - Applied Economics
+  - Industrial Organization
   - Applied Econometrics/Bayesian Econometrics/Machine Learning
   - Environmental/Energy/Health Economics
-  - International Economics and Finance
+  - Information Economics/systems
 
 education:
   - area: PhD Economics
@@ -166,10 +166,6 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
       - name: Matlab
         description: ''
         percent: 90
@@ -182,22 +178,6 @@ skills:
         description: ''
         percent: 100
         icon: latex
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
 
 languages:
   - name: English
@@ -254,6 +234,6 @@ awards:
        Awarded 7,200 Euros in scholarships for my MPhil Economics program
 ---
 
-I am an applied economist specializing in industrial organization with research applications in health policy evaluation and energy economics. My dissertation work employs structural and reduced-form econometric methods to examine market dynamics and policy effectiveness across two critical domains: healthcare markets and energy commodity markets during the transition to sustainable energy systems. In health economics, I apply IO frameworks to assess how market structure, competition, and regulatory design influence healthcare delivery, access, and outcomes. My energy economics research investigates the inflationary effects of energy commodities and the macroeconomic implications of the energy transition, with focus on price transmission mechanisms and supply chain restructuring. My methodological toolkit includes structural estimation, causal inference techniques, game-theoretic modeling, and time-series econometrics. I am committed to producing rigorous, policy-relevant research that informs evidence-based decision-making in healthcare and energy policy.
+I am a PhD candidate in Economics at Texas Tech University. My research focuses on health economics through the lens of industrial organization, examining how information asymmetries affect consumer choices and firm behavior. I am particularly interested in the effectiveness of public policies designed to improve information transparency and health outcomes. 
 
 
