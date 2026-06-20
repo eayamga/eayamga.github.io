@@ -26,13 +26,13 @@ abstract: Exchange rate forecasts and stability have been a challenge for develo
 # Summary. An optional shortened abstract.
 summary: We observed that domestic predictors largely drive the exchange rates in Ghana with the stock market index and fiscal operations exhibiting the strongest predictive power followed by the Taylor rule, and the real economic sector. Moreover, there is an international spillover from the US economy to Ghana’s exchange rate.
 
-tags:
-- Source Themes
-featured: true
+#tags:
+#- Source Themes
+#featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+#hugoblox:
+#  ids:
+#    arxiv: 1512.04133v1
 
 links:
   - type: pdf
