@@ -35,9 +35,13 @@ sections:
       subtitle: 'Do Front-of-Package Sugar Labels Shift Consumer Demand away from Diabetes-Risk Foods'
       text: |-
         This paper evaluates the impact of a U.S. front-of-package (FOP) sugar labeling policy on consumer demand for ready-to-eat (RTE) cereals. Using NielsenIQ retail scanner data and a difference-in-differences design, we find no evidence of product reformulation or significant demand shifts around the 5- and 10-gram added sugar thresholds following the introduction of the table-format FOP label. Although we detect a modest substitution pattern beginning around 7.5 grams of added sugar, the magnitude is economically small and unlikely to meaningfully affect diet-related health outcomes. To rationalize these limited effects, we develop and estimate a structural Berry–Levinsohn–Pakes (BLP) demand model augmented with a rational inattention framework in which information processing costs enter utility directly. We allow the cost of processing nutritional information to vary by label format, with the highest cost associated with table-format labels, followed by letter-grade labels, color-grade labels, and the lowest cost for warning labels. Structural estimates indicate that high information-processing costs substantially attenuate the effectiveness of table-format labels. Counterfactual simulations show that simplified formats particularly warning labels significantly reduce demand for high-sugar cereals and generate welfare gains. Overall, our findings suggest that reducing cognitive costs through simplified FOP designs can meaningfully improve consumer welfare and shift consumption away from unhealthy products. [Dowload](https://dx.doi.org/10.2139/ssrn.5784502)
+
+    subtitle: 'Forecasting the future: applying Bayesian model averaging for exchange rates drivers in Ghana'
+    text: |-
+    Exchange rate forecasts and stability have been a challenge for developing economies. This study analyses the possible exchange rate predictors in Ghana that are needed for policymaking. We perform an out-of-sample exchange rate forecast for the Ghana Cedis (GHS) per the United States dollar (USD) and the Euro (EUR) and the nominal effective exchange rate (NEER) using the Bayesian model averaging for 1, 3 and 6-month horizons. We observed that domestic predictors largely drive the exchange rates in Ghana with the stock market index and fiscal operations exhibiting the strongest predictive power followed by the Taylor rule, and the real economic sector. Moreover, there is an international spillover from the US economy to Ghana’s exchange rate. Finally, we noticed that forecast accuracy improved at the 3-month-ahead. [Download](https://doi.org/10.1080/00036846.2024.2339188)
        
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
