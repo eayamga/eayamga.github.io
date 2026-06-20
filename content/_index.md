@@ -38,6 +38,7 @@ sections:
 
     subtitle: 'Forecasting the future: applying Bayesian model averaging for exchange rates drivers in Ghana'
     text: |-
+    
     Exchange rate forecasts and stability have been a challenge for developing economies. This study analyses the possible exchange rate predictors in Ghana that are needed for policymaking. We perform an out-of-sample exchange rate forecast for the Ghana Cedis (GHS) per the United States dollar (USD) and the Euro (EUR) and the nominal effective exchange rate (NEER) using the Bayesian model averaging for 1, 3 and 6-month horizons. We observed that domestic predictors largely drive the exchange rates in Ghana with the stock market index and fiscal operations exhibiting the strongest predictive power followed by the Taylor rule, and the real economic sector. Moreover, there is an international spillover from the US economy to Ghana’s exchange rate. Finally, we noticed that forecast accuracy improved at the 3-month-ahead. [Download](https://doi.org/10.1080/00036846.2024.2339188)
        
     design:
@@ -52,7 +53,7 @@ sections:
         featured_only: false
     design:
       view: article-grid
-      columns: 3
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
