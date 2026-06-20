@@ -28,7 +28,7 @@ summary: We observed that domestic predictors largely drive the exchange rates i
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
