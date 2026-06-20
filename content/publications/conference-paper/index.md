@@ -32,16 +32,16 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-  - Large Language Models
+#tags:
+#  - Large Language Models
 
 # Display this page in the Featured widget?
-featured: false
+#featured: false
 
 # Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
+#hugoblox:
+ # ids:
+ #   doi: 10.5555/123456
 
 # Custom links
 links:
